@@ -13,16 +13,16 @@ This was a pretty easy piece to make. Onshape seems pretty powerful and fast con
 ### Mount
 <img src="images/Mount.png" width="300">
 
-Onshape File : [Mount](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/f4cf04ea7740b96509d1af12)\
+Onshape File : [Mount](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/f4cf04ea7740b96509d1af12)
 
-Again, this piece was really easy to make. The linear pattern tool in Onshape is pretty straightforward. 
+It was interesting to see how there are many different ways that you can make a peice and stil end up with the same result. My prefered method is to create one sketch that contains the rectangle along with the 5 holes, and then just extrude the space in between. 
 
 ### Fork
 <img src="images/Fork.png" width="300">
 
 Onshape File : [Fork](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/7e83d911f09a628e41580c23)
 
-This part took a bit more time, but was still overall pretty easy to complete. Onshape is pretty intuitive and makes tasks like mirroring objects really easy to do. 
+This piece was the first major test of my Onshape skills, so it took a bit more time. Luckily, Onshape is pretty intuitive and makes tasks like mirroring objects really easy to do. 
 
 ### Tire
 <img src="images/Tire.png" width="300">
@@ -36,7 +36,7 @@ This was my first time making a revolved feature in Onshape. It's pretty much th
 
 Onshape File : [Wheel](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/e49b64c35611a617ad5141a8)
 
-This piece was another revolved feature. The process to make it was pretty similar to the tire. 
+This piece was another revolved feature which made the process to make it was pretty similar to the tire. I like how that when selecting edges to fillet, you can just select a face and it will fillet all of the edges connected to that face. It saves you the time of having to go through and manually select each edge that you want to fillet. 
 
 ### Axle, Collar, Bearings
 <img src="images/Axle.png" width="150">
@@ -52,3 +52,10 @@ Onshape File: Bearing : [Bearing](https://cvilleschools.onshape.com/documents/5c
 All three of these pieces were super simple. The bearing was made in only one feature, while the collar was made in 2 features. The axle was a cylinder extruded symmetrically with small "D" cuts on each end. 
 
 ### Assembly
+
+<img src="images/Assembly1.png" width="200">
+<img src="images/Assembly2.png" width="200">
+
+Onshape File: [Assembly](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/8579945a5a2e60473edd15c9)
+
+Assembling things in Onshape is a lot easier then it is in SolidWorks. A lot of components can be mated together and fully contstrained with just one mate. In a different CAD program like SolidWorks, it might take 2-3 mates to complete the same task. 
