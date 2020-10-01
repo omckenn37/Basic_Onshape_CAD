@@ -59,3 +59,13 @@ All three of these pieces were super simple. The bearing was made in only one fe
 Onshape File: [Assembly](https://cvilleschools.onshape.com/documents/5c1d5796c9098d60ababfaa2/w/21b145938ec824bba0ea0ab5/e/8579945a5a2e60473edd15c9)
 
 Assembling things in Onshape is a lot easier then it is in SolidWorks. A lot of components can be mated together and fully contstrained with just one mate. In a different CAD program like SolidWorks, it might take 2-3 mates to complete the same task. 
+
+## Dowel Pin Configurations Assignment
+
+In this assignment we used onshape configurations to create many different types of dowel pins and then used them to create a picture frame assembly. 
+
+### Dowel Pins
+
+### Picture Frame
+
+### Final Assembly
