@@ -67,16 +67,22 @@ In this assignment we used Onshape configurations to create many different types
 ### Dowel Pins
 <img src="images/DowelPin.png" width="200">
 
+Onshape File : [Dowel Pins](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/c0b81477f24fd40133ebdf0d?configuration=List_6WT8QaV3gq8pbv%3D_3_8_in%3BList_hORbqzE8fnRXjy%3DDefault%3BList_kXsOKhp1Phlt61%3D_1_in)
+
 So far, my favorite feature of Onshape has been how easy it is to make configurations. Configurations in Solidworks worked well, but sometimes there would be weird errors and other mishaps that I wouldn't be able to figure out. Configurations in Onshape are super easy. I like how that when creating a configuration, you just have to go and click on the feature/sketch that you want to manipulate. Here I have included a picture of only 1 of the dowel pins, but there are actually 16 different dowel pins that were created using configurations. 
 
-### Picture Frame
+### Frame
 <img src="images/Frame12in.png" width="200">
 <img src="images/Frame18in.png" width="200">
+
+Onshape File : [Frame](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/be99838cdfa0b1a84646ec34?configuration=List_KBGUcECwfjNNxh%3D_2ft)
 
 These picture frame pieces were also created using configurations. I started by making the 12 inch frame, and then used configurations to make a frame that was 18 inches long. 
 
 ### Final Assembly
 <img src="images/FrameAssembly.png" width="200">
 <img src="images/FrameAssemblyEdges.png" width="200">
+
+Onshape File : [Final Assembly](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
 
 The final assembly was pretty straight forward. Onshape makes inserting different configurations of the same piece pretty easy. Pictured here is a regular screenshot of the assembly along with a screenshot with the "hidden edges visible" mode enabled so it is easy to see where the dowel pins have been utilized. 
