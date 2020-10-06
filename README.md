@@ -67,13 +67,16 @@ In this assignment we used Onshape configurations to create many different types
 ### Dowel Pins
 <img src="images/DowelPin.png" width="200">
 
-So far, my favorite feature of Onshape has been how easy it is to make configurations. Configurations in Soldiworks worked well, but sometimes there would be weird errors and other mishaps that I wouldn't be able to figure out. Configurations in Onshape are super easy. I like how that when creating a configuration, you just have to go and click on the feature/sketch that you want to manipulate. 
-
+So far, my favorite feature of Onshape has been how easy it is to make configurations. Configurations in Solidworks worked well, but sometimes there would be weird errors and other mishaps that I wouldn't be able to figure out. Configurations in Onshape are super easy. I like how that when creating a configuration, you just have to go and click on the feature/sketch that you want to manipulate. Here I have included a picture of only 1 of the dowel pins, but there are actually 16 different dowel pins that were created using configurations. 
 
 ### Picture Frame
 <img src="images/Frame12in.png" width="200">
 <img src="images/Frame18in.png" width="200">
 
+These picture frame pieces were also created using configurations. I started by making the 12 inch frame, and then used configurations to make a frame that was 18 inches long. 
+
 ### Final Assembly
 <img src="images/FrameAssembly.png" width="200">
 <img src="images/FrameAssemblyEdges.png" width="200">
+
+The final assembly was pretty straight forward. Onshape makes inserting different configurations of the same piece pretty easy. Pictured here is a regular screenshot of the assembly along with a screenshot with the "hidden edges visible" mode enabled so it is easy to see where the dowel pins have been utilized. 
