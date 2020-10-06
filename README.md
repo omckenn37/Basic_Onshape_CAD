@@ -62,10 +62,18 @@ Assembling things in Onshape is a lot easier then it is in SolidWorks. A lot of 
 
 ## Dowel Pin Configurations Assignment
 
-In this assignment we used onshape configurations to create many different types of dowel pins and then used them to create a picture frame assembly. 
+In this assignment we used Onshape configurations to create many different types of dowel pins and then used them to create a picture frame assembly. 
 
 ### Dowel Pins
+<img src="images/DowelPin.png" width="200">
+
+So far, my favorite feature of Onshape has been how easy it is to make configurations. Configurations in Soldiworks worked well, but sometimes there would be weird errors and other mishaps that I wouldn't be able to figure out. Configurations in Onshape are super easy. I like how that when creating a configuration, you just have to go and click on the feature/sketch that you want to manipulate. 
+
 
 ### Picture Frame
+<img src="images/Frame12in.png" width="200">
+<img src="images/Frame18in.png" width="200">
 
 ### Final Assembly
+<img src="images/FrameAssembly.png" width="200">
+<img src="images/FrameAssemblyEdges.png" width="200">
