@@ -86,3 +86,17 @@ These picture frame pieces were also created using configurations. I started by 
 Onshape File : [Final Assembly](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
 
 The final assembly was pretty straight forward. Onshape makes inserting different configurations of the same piece pretty easy. Pictured here is a regular screenshot of the assembly along with a screenshot with the "hidden edges visible" mode enabled so it is easy to see where the dowel pins have been utilized. 
+
+## Onshape Challenge Assignment
+
+### Cube
+<img src="images/Cube.png" width="200">
+
+### Spinner Shaft
+<img src="images/Spinner Shaft.png" width="200">
+
+### Bracket
+<img src="images/Bracket.png" width="200">
+
+### Assembly
+<img src="images/SpinnerAssembly.png" width="200">
