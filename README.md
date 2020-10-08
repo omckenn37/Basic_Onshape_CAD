@@ -89,14 +89,32 @@ The final assembly was pretty straight forward. Onshape makes inserting differen
 
 ## Onshape Challenge Assignment
 
+In this assignment, we created different components based solely off of measurements that we were given. Then, we assembled them to create a universal joint assembly.
+
 ### Cube
 <img src="images/Cube.png" width="200">
+
+Onshape File : [Cube](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
+
+I created this first component by making a square extrusion and then making one of the cylinders that stick out. Then, I used the planes to mirror that cylinder to four sides of the cube. 
 
 ### Spinner Shaft
 <img src="images/Spinner Shaft.png" width="200">
 
+Onshape File : [Spinner Shaft](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
+
+This component took a bit more effort than the previous. I started by making two cylinders. Then, I cut a large portion out of the larger cylinder and added fillets where necessary. For the holes on the top, I just cut one and then mirrored that feature to the other side. 
+
 ### Bracket
 <img src="images/Bracket.png" width="200">
 
+Onshape File : [Bracket](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
+
+There were a couple different ways that you could make this component. One way was to use a tool similar to the "Thin Feature" tool in SolidWorks which allows you to extrude a shape based solely off of lines. Once you have extruded the shape just based of the lines, you have to thicken it because it would technically have 0 thickness. You could also just make this piece the standard way by using sketches and regular extrusion techniques. 
+
 ### Assembly
 <img src="images/SpinnerAssembly.png" width="200">
+
+Onshape File : [Assembly](https://cvilleschools.onshape.com/documents/36cc1a96a58015aefb8ef982/w/4b82eb30bd7f6b48a11bd035/e/d01233ea18b233b39b03aec2)
+
+The final assembly was a bit tricky. It was hard to constrain everything in the assembly and still allow the joint to rotate properly. I ended up using cylindrical mates for the spinner shafts as this allowed them to be adjusted before I finally constrained them.
